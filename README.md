@@ -1,5 +1,5 @@
 # Overview
-This notebook contains a script whihc filters out noise and unwanted sine waves within a signal.
+This notebook contains a script which filters out noise and unwanted sine waves within a signal.
 The script generates a signal composed of randomly generated sine waves combined with noise to mimic RF signals. It then transforms the signal from the time domain to the frequency domain using the Fourier transform.
 # Method
 Two independent filtering criteria are applied:
